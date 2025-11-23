@@ -1,0 +1,129 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "Amshi",
+        "profile_pic": "src/assets/ams.jpg"
+      },
+      "image": "src/assets/coff.jpeg",
+      "caption": "Beautiful sunset #Nature",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "alice_wonder",
+          "comment": "Wow! Amazing shot!"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Where is this place?"
+        }
+      ],
+      "timestamp": "2025-02-11T14:30:00Z"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "Suke",
+        "profile_pic": "src/assets/suke.jpg"
+      },
+      "image": "src/assets/volly.jpeg",
+      "caption": "Coffee first . #MondayMotivation",
+      "likes": 230,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "I need this coffee right now! "
+        },
+        {
+          "user": "sarah-lee",
+          "comment": "Amazing"
+        }
+      ],
+      "timestamp": "2025-02-11T14:30:005"
+    }
+  ],
+  "profile": {
+    "username": "amshika_Sukethan_0221",
+    "profile_pic": "src/assets/ams.jpg"
+  },
+  "suggestions": [
+    {
+      "id": "101",
+      "username": "Amshi",
+      "profile_pic": "src/assets/ams.jpg"
+    },
+    {
+      "id": "102",
+      "username": "Amshi.Na",
+      "profile_pic": "src/assets/ams.jpg"
+    },
+    {
+      "id": "103",
+      "username": "Amshi_Suke",
+      "profile_pic": "src/assets/ams.jpg"
+    },
+    {
+      "id": "104",
+      "username": "Amshika",
+      "profile_pic": "src/assets/ams.jpg"
+    },
+    {
+      "id": "105",
+      "username": "Amshi.N",
+      "profile_pic": "src/assets/ams.jpg"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "Amshi",
+        "profile_pic": "src/assets/ams.jpg"
+      },
+      "image": "src/assets/pongal.jpg"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "Sukethan Anthonypillai",
+        "profile_pic": "src/assets/suke.jpg"
+      },
+      "image": "src/assets/group.jpg"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 101,
+        "username": "Amshika Nadesabavanantham",
+        "profile_pic": "src/assets/ams.jpg"
+      },
+      "image": "src/assets/session.jpg"
+    }
+  ],
+  "followers": [
+    {
+      "id": "201",
+      "username": "john_doe",
+      "profile_pic": "src/assets/suke.jpg"
+    },
+    {
+      "id": "202",
+      "username": "jane_smith",
+      "profile_pic": "src/assets/suke.jpg"
+    },
+    {
+      "id": "203",
+      "username": "alice_wonder",
+      "profile_pic": "src/assets/suke.jpg"
+    },
+    {
+      "id": "102",
+      "username": "Amshi.Na"
+    }
+  ]
+}
