@@ -107,23 +107,16 @@
   ],
   "followers": [
     {
-      "id": "201",
-      "username": "john_doe",
-      "profile_pic": "src/assets/suke.jpg"
-    },
-    {
-      "id": "202",
-      "username": "jane_smith",
-      "profile_pic": "src/assets/suke.jpg"
-    },
-    {
-      "id": "203",
-      "username": "alice_wonder",
-      "profile_pic": "src/assets/suke.jpg"
-    },
-    {
       "id": "102",
       "username": "Amshi.Na"
+    },
+    {
+      "id": "101",
+      "username": "Amshi"
+    },
+    {
+      "id": "103",
+      "username": "Amshi_Suke"
     }
   ]
 }
